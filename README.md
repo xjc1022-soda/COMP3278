@@ -48,7 +48,7 @@ python3 train.py
 
 ### 2. Database
 
-![ER-diagram](img/ER-diagram.png)
+![ER-diagram](ER-diagram.png)
 
 #### import from sql file
 
